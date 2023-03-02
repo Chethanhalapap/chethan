@@ -1,8 +1,4 @@
 #!/bin/bash
-:for myvar in {1..5}
-:do
-:echo  "Hello world"
-:done
 
 :for  myvar in 1 2 3 a
 :do
