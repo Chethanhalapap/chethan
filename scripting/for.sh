@@ -1,5 +1,5 @@
 #!/bin/bash
-#used to demo for loop
+#used to demo for loop is
 :for  myvar in 1 2 3 a
 :do
 :echo "Hello world $myvar"
