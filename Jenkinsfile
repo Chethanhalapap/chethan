@@ -11,8 +11,8 @@ pipeline {
 
         stage('parallelStage') {
           steps {
-            sh '''sleep 10 \\
-echo "Hello"'''
+            sh 'sleep 10'
+            sh 'echo "hello"'
           }
         }
 
